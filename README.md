@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 🔭 I’m currently school on SMKN 56 Jakarta
+### 🌱 I’m currently learning Robotics & Automation
 <!--
 **acues/acues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
